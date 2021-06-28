@@ -1,19 +1,77 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/d933df149c62be04ea54d3a9bfb0372c.png" group-title="SmartTV", KIDS HD :| NAT GEO KIDS
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/485
+#EXTINF:-2001 tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.5ab72f023b983_ClaroSports.png.7a8910006bbbaf0136627622d8323cc6.png" group-title="SmartTV", CLARO SPORTS
+https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SmartTV", KIDS HD :| DISCOVERY KIDS AMERICA UHD
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/612
+#EXTINF:-1 tvg-logo="http://dydentertainment.club/oscuros/ecuador.jpg" group-title="SmartTV", EC: Ecuavisa
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/477
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SmartTV", KIDS HD :| DISNEY CHANNEL AMERICA UHD
-http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/613
+#EXTINF:-1 tvg-logo="http://dydentertainment.club/oscuros/ecuador.jpg" group-title="SmartTV", EC: RTS
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/473
+
+#EXTINF:-58 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/1200px-El_Chavo_%28simple_logo%29.svg.png" group-title="SmartTV", EL CHAVO
+https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w925937130.m3u8
+
+#EXTINF:-1 tvg-logo="http://dydentertainment.club/oscuros/ecuador.jpg" group-title="SmartTV", EC: Teleamazonas
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/475
+
+#EXTINF:-1 tvg-logo="http://dydentertainment.club/oscuros/ecuador.jpg" group-title="SmartTV", EC: EcuadorTV
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/478
+
+#EXTINF:-1 tvg-logo="http://dydentertainment.club/oscuros/ecuador.jpg" group-title="SmartTV", EC: TC Television
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/479
+
+#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/4b9bdbe311e0be8ad51c487ab727232b.png" group-title="SmartTV", EC: Ecotel TV
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/482
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SmartTV", EC: Canela
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/483
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SmartTV", EC: RTU
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/484
+
+#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/e60fe162c00850662086800ef85a59fb.png" group-title="SmartTV", EC: EL CANAL DEL FUTBOL
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/1150
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SmartTV", Gol TV Ecuador SD
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/2169
+
+#EXTINF:-64 tvg-logo="https://i.postimg.cc/VLQJ8Svc/NICK-CL-SICO.png" group-title="SmartTV", NICK CLÁSICO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18711-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8d15965-7824-4eee-a6c8-345e488692b7&userId=&serverSideAds=true
+
+#EXTINF:-64 tvg-logo="https://i.postimg.cc/CKpvff3f/nicklatino.png" group-title="SmartTV", NICK LATINO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ff371-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c59413c7-c50b-4407-b45a-db56bbc21724&userId=&serverSideAds=true
+
+#EXTINF:-64 tvg-logo="https://i.postimg.cc/PqZbtGH6/NICKTEEN.png" group-title="SmartTV", NICK TEEN
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&clientModelNumber=na&deviceDNT=false&deviceId=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&deviceLat=-34.6011&deviceLon=-58.3847&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.90&marketingRegion=VE&serverSideAds=true&sessionID=aec89e2d-8415-11eb-850e-0242ac110002&sid=aec89e2d-8415-11eb-850e-0242ac110002&userId=
 
 #EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/66aa49445c81b1b766e022d1be8b51b1.png" group-title="SmartTV", KIDS HD :| DISNEY JUNIOR UHD
 http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/496
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SmartTV", KIDS HD :| DISCOVERY KIDS AMERICA UHD
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/612
+
+#EXTINF:-62 tvg-logo="https://i.postimg.cc/WbfQQZX2/NICKJR-CLUB.png" group-title="SmartTV", NICK JR. CLUB
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18712-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6796fdc2-2bb5-4e80-a717-366aa2433636&userId=&serverSideAds=true
+
+#EXTINF:-62 tvg-logo="https://i.postimg.cc/mr3m3g4p/nickjrlatino.png" group-title="SmartTV", NICK JR. LATINO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ff372-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=508efa49-44d3-42fd-8d4d-75f10b4e7cc7&userId=&serverSideAds=true
+
 #EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/5ff64bccdd09d2c6a66149191d20d6a0.png" group-title="SmartTV", KIDS HD :| DISNEY XD UHD
 http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/497
 
+#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/d933df149c62be04ea54d3a9bfb0372c.png" group-title="SmartTV", KIDS HD :| NAT GEO KIDS
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/485
+
+#EXTINF:-61 tvg-logo="https://brandlicensing.com.mx/wp-content/uploads/2019/03/reinoinfantil.png" group-title="SmartTV",EL REINO INFANTIL
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=51f247aa-de6a-4551-a331-ffa4c5dc6b64&userId=&serverSideAds=true
+
 #EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/1b261eabdd77a489f214408676b6b9d9.png" group-title="SmartTV", KIDS HD :| CARTOON NETWORK AMERICA UHD
 http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/500
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SmartTV", KIDS HD :| DISNEY CHANNEL AMERICA UHD
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/613
+
+#EXTINF:-55 tvg-logo="https://assets.stickpng.com/images/5a05b6b79cf05203c4b6045f.png" group-title="SmartTV", LOS SIMPSONS
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
+
