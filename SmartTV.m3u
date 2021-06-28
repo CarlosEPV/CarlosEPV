@@ -1,1 +1,19 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/d933df149c62be04ea54d3a9bfb0372c.png" group-title="SmartTV", KIDS HD :| NAT GEO KIDS
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/485
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SmartTV", KIDS HD :| DISCOVERY KIDS AMERICA UHD
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/612
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SmartTV", KIDS HD :| DISNEY CHANNEL AMERICA UHD
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/613
+
+#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/66aa49445c81b1b766e022d1be8b51b1.png" group-title="SmartTV", KIDS HD :| DISNEY JUNIOR UHD
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/496
+
+#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/5ff64bccdd09d2c6a66149191d20d6a0.png" group-title="SmartTV", KIDS HD :| DISNEY XD UHD
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/497
+
+#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/1b261eabdd77a489f214408676b6b9d9.png" group-title="SmartTV", KIDS HD :| CARTOON NETWORK AMERICA UHD
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/500
